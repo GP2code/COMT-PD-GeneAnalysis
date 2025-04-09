@@ -3,9 +3,9 @@
 
 `GP2 ❤️ Open Science 😍`
 
-[![DOI](https://zenodo.org/badge/920284062.svg)](RELLENAR)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![DOI](https://zenodo.org/badge/962672981.svg)](https://doi.org/10.5281/zenodo.15185052)
 
 **Last Updated:** April 2025
 
